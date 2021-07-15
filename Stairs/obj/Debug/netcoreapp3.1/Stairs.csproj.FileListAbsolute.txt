@@ -1,0 +1,13 @@
+D:\Kamizelich\9. Schody\Stairs\Stairs\bin\Debug\netcoreapp3.1\Stairs.exe
+D:\Kamizelich\9. Schody\Stairs\Stairs\bin\Debug\netcoreapp3.1\Stairs.deps.json
+D:\Kamizelich\9. Schody\Stairs\Stairs\bin\Debug\netcoreapp3.1\Stairs.runtimeconfig.json
+D:\Kamizelich\9. Schody\Stairs\Stairs\bin\Debug\netcoreapp3.1\Stairs.runtimeconfig.dev.json
+D:\Kamizelich\9. Schody\Stairs\Stairs\bin\Debug\netcoreapp3.1\Stairs.dll
+D:\Kamizelich\9. Schody\Stairs\Stairs\bin\Debug\netcoreapp3.1\Stairs.pdb
+D:\Kamizelich\9. Schody\Stairs\Stairs\obj\Debug\netcoreapp3.1\Stairs.csprojAssemblyReference.cache
+D:\Kamizelich\9. Schody\Stairs\Stairs\obj\Debug\netcoreapp3.1\Stairs.AssemblyInfoInputs.cache
+D:\Kamizelich\9. Schody\Stairs\Stairs\obj\Debug\netcoreapp3.1\Stairs.AssemblyInfo.cs
+D:\Kamizelich\9. Schody\Stairs\Stairs\obj\Debug\netcoreapp3.1\Stairs.csproj.CoreCompileInputs.cache
+D:\Kamizelich\9. Schody\Stairs\Stairs\obj\Debug\netcoreapp3.1\Stairs.dll
+D:\Kamizelich\9. Schody\Stairs\Stairs\obj\Debug\netcoreapp3.1\Stairs.pdb
+D:\Kamizelich\9. Schody\Stairs\Stairs\obj\Debug\netcoreapp3.1\Stairs.genruntimeconfig.cache
